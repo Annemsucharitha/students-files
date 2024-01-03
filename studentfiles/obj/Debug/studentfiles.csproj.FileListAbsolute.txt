@@ -1,0 +1,7 @@
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\bin\Debug\studentfiles.exe.config
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\bin\Debug\studentfiles.exe
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\bin\Debug\studentfiles.pdb
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\obj\Debug\studentfiles.csproj.AssemblyReference.cache
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\obj\Debug\studentfiles.csproj.CoreCompileInputs.cache
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\obj\Debug\studentfiles.exe
+C:\Users\Annem sucharitha\MC\studentfiles\studentfiles\obj\Debug\studentfiles.pdb
